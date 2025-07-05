@@ -25,11 +25,10 @@ cd general-purpose-code
 
 ### Install Dependencies (if any)
 
-(if there are dependencies that need to be installed for this repository, specify them here)
-
-### Build or Run
-
-(explain how to build or run the code in this repository)
+Install requirements.txt
+```python
+pip install -r requirements.txt
+```
 
 ## Contributing
 This project is maintained by [Prathamesh Joshi](mailto:prathameshjoshi9199@gmail.com).
